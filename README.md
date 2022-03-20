@@ -15,16 +15,16 @@ Changed "search-engine-optimization" form CLASS to ID in HTML and CSS done
  - Added ALT to Brand Awareness picture
  - Added ALT to Cost Management picture
 
-Changed SPAN class="seo" to <em> in HTML and CSS files
+Changed SPAN class="seo" to EM in HTML and CSS files
  - Changed for semantic usage to emphasize the SEO in Horiseon
 
 
  DIVs changed for semantic usage in HTML and CSS files
- - DIV under <body> to <header>
- - DIV under <header> to <nav>
- - DIV xxxx xxxxxx to <footer>
- - DIV xxxx xxxxxx to <aside>
- - DIVs under <aside> to <section>
+ - DIV under BODY to HEADER
+ - DIV under HEADER to NAV
+ - DIV xxxx xxxxxx to FOOTER
+ - DIV xxxx xxxxxx to ASIDE
+ - DIVs under ASIDE to SECTION
 
 
   Consolidated three CLASSES to One - benefit-format
