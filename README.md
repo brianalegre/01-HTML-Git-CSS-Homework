@@ -20,14 +20,13 @@ Changed SPAN class="seo" to EM in HTML and CSS files
 
 
 DIVs changed for semantic usage in HTML and CSS files
- - DIV under BODY to HEADER
- - DIV under HEADER to NAV
- - DIV xxxx xxxxxx to FOOTER
- - DIV xxxx xxxxxx to ASIDE
- - DIVs under ASIDE to SECTION
- - DIV xxxx xxxxx to MAIN
- - DIVs under MAIN to ARTICLE
-
+ - DIV under BODY Openner to HEADER
+ - DIV under HEADER Openner to NAV
+ - DIV under ASIDE to FOOTER
+ - DIV unser MAIN Closer to ASIDE
+ - DIVs under ASIDE Openner to SECTION
+ - DIV under SECTION Closer to MAIN
+ - DIVs under MAIN Openner to ARTICLE
 
 
 Consolidated three CLASSES to One - benefitFormat
