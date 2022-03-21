@@ -39,4 +39,6 @@ Consolidated 3 classes into one articleFormat
  - .online-reputation-management
  - .social-media-marketing
 
+Changed FOOTER H2 to H4
+ - Heading attributes to sequential order
 
