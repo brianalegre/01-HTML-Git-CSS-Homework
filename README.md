@@ -17,6 +17,7 @@ Added ALT and TITLE properties to all images
 
 Changed SPAN class="seo" to EM in HTML and CSS files
  - Changed for semantic usage to emphasize the SEO in Horiseon
+ - Revered EM back to SPAN class="seo" as EM added the italiac style
 
 
 DIVs changed for semantic usage in HTML and CSS files
