@@ -43,6 +43,8 @@ Consolidated 3 classes into one just the ARTICLE element
 Changed FOOTER H2 to H4
  - Heading attributes to sequential order
 
+Removed CLASS benefits
+ - Updated the CSS to just target the ASIDE element
 
 
 
