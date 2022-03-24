@@ -113,7 +113,7 @@ p {
     .online-reputation-management
     .social-media-marketing
  */
-.articleFormat {
+article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -122,11 +122,11 @@ p {
     color: #ffffff;
 } 
 
-.articleFormat img {
+article img {
     max-height: 200px;
 }
 
-.articleFormat h2 { 
+article h2 { 
     margin-bottom: 20px;
     font-size: 36px;
 }

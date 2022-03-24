@@ -35,11 +35,14 @@ Consolidated three CLASSES to One - benefitFormat
  - .benefit-brand
  - .benefit-cost
 
-Consolidated 3 classes into one articleFormat
+Consolidated 3 classes into one just the ARTICLE element
  - .search-engine-optimization
  - .online-reputation-management
  - .social-media-marketing
 
 Changed FOOTER H2 to H4
  - Heading attributes to sequential order
+
+
+
 
