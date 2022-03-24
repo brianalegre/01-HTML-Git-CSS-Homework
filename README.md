@@ -30,12 +30,12 @@ DIVs changed for semantic usage in HTML and CSS files
  - DIVs under MAIN Openner to ARTICLE
 
 
-Consolidated three CLASSES to One - benefitFormat
+Consolidated three CLASSES to just target the ASIDE SECTION
  - .benefit-lead
  - .benefit-brand
  - .benefit-cost
 
-Consolidated 3 classes into one just the ARTICLE element
+Consolidated three CLASS to just target the ARTICLE element
  - .search-engine-optimization
  - .online-reputation-management
  - .social-media-marketing
@@ -43,8 +43,10 @@ Consolidated 3 classes into one just the ARTICLE element
 Changed FOOTER H2 to H4
  - Heading attributes to sequential order
 
-Removed CLASS benefits
- - Updated the CSS to just target the ASIDE element
+Removed CLASSes 
+ - benefits from ASIDE, and updated the CSS to just target the ASIDE element
+ - benefitsFormat from ASIDE, and updated the CSS to just target the ASIDE SECTION elements
+ - footer, and updated the CSS to just target the FOOTER element
 
 
 
