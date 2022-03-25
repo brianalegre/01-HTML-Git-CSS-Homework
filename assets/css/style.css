@@ -32,9 +32,9 @@ header nav {
     font-size: 20px;
 }
 
-    header nav ul {
+header nav ul {
         list-style-type: none;
-    }
+}
 
 header nav ul li {
     display: inline-block;
@@ -69,14 +69,15 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* Removed the CLASS, and targeted the MAIN element */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
 
-/* Removed the CLASS, and target the ASIDE element */
+/* Removed the CLASS, and targeted the ASIDE element */
 aside {
     margin-right: 20px;
     padding: 20px;

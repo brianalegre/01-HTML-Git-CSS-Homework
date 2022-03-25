@@ -44,9 +44,12 @@ Changed FOOTER H2 to H4
  - Heading attributes to sequential order
 
 Removed CLASSes 
- - benefits from ASIDE, and updated the CSS to just target the ASIDE element
- - benefitsFormat from ASIDE, and updated the CSS to just target the ASIDE SECTION elements
- - footer, and updated the CSS to just target the FOOTER element
+ - benefits from ASIDE, and updated the CSS to target the ASIDE element
+ - benefitsFormat from ASIDE, and updated the CSS to target the ASIDE SECTION elements
+ - footer, and updated the CSS to target the FOOTER element
+ - content, and updated the CSS to target the MAIN element
 
+
+Moved Classes and Elements in the CSS to match the flow of the HTML
 
 
