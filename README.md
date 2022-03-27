@@ -6,7 +6,7 @@ Refactor the CSS to remove redundant code
 Verify links work
 Refactored code output should look exactly the same as the provided code output
 
-#Horiseon Webpage
+# Horiseon Webpage
 <p align="center">
     <img alt="Horiseon Webpage" src="./assets/images/01-html-css-git-homework-demo.png">
 </p>
