@@ -1,18 +1,18 @@
 # 01-HTML-Git-CSS-Homework
 
 # Description 
-Refactor the code to use HTML semantic elements
-Refactor the CSS to remove redundant code
-Verify links work
-Refactored code output should look exactly the same as the provided code output
+- Refactor the code to use HTML semantic elements
+- Refactor the CSS to remove redundant code
+- Verify links work
+- Refactored code output should look exactly the same as the provided code output
 
 # Horiseon Webpage
 <p align="center">
     <img alt="Horiseon Webpage" src="./assets/images/01-html-css-git-homework-demo.png">
 </p>
 
-#Respository Link
-https://github.com/brianalegre/01-HTML-Git-CSS-Homework
+# Respository Link
+- https://github.com/brianalegre/01-HTML-Git-CSS-Homework
 
 
 Updated the Title to the Company Name
