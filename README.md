@@ -15,6 +15,7 @@
 - https://github.com/brianalegre/01-HTML-Git-CSS-Homework
 
 
+# Tasks Tracking
 Updated the Title to the Company Name
 
 Changed "search-engine-optimization" form CLASS to ID in HTML 
