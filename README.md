@@ -11,8 +11,9 @@
     <img alt="Horiseon Webpage" src="./assets/images/01-html-css-git-homework-demo.png">
 </p>
 
-# Respository Link
-- https://github.com/brianalegre/01-HTML-Git-CSS-Homework
+# Github Links
+- Respository: https://github.com/brianalegre/01-HTML-Git-CSS-Homework
+- Deployed: https://brianalegre.github.io/01-HTML-Git-CSS-Homework/
 
 
 # Tasks Tracking
